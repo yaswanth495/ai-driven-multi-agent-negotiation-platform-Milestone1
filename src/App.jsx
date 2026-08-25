@@ -223,8 +223,6 @@ function App() {
 
       <footer className="main-footer">
         <span>AI-Driven Multi-Agent Negotiation Platform</span>
-        <span className="footer-divider">•</span>
-        <span>Milestone 1</span>
       </footer>
     </div>
   );
